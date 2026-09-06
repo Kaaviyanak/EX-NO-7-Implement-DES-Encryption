@@ -1,3 +1,5 @@
+# NAME : KAAVIYAN K
+# REG NO: 212224240066
 # EX-NO-7-Implement-DES-Encryption
 
 
@@ -15,7 +17,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 ## Program:
 
-```c
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -77,7 +79,8 @@ int main() {
 
 ## Output:
 
-<img width="1917" height="1066" alt="image" src="https://github.com/user-attachments/assets/c67b9687-bc9c-481b-a125-ca59f152b40c" />
+<img width="1897" height="1016" alt="image" src="https://github.com/user-attachments/assets/4f530194-92e4-4e6d-b30c-813b84aee540" />
+
 
 
 
